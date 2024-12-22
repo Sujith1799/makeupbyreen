@@ -2,7 +2,7 @@
 
 Built using HTML, CSS, and Javascript. A freelance makeup artist website to win new clients!
 
-Link to project: https://rmkbeauty.netlify.app/
+Link to project: https://makeupbyreen.netlify.app
 
 ## How It's Made:
 
